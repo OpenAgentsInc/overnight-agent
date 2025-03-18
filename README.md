@@ -10,6 +10,8 @@ System prompt:
 
 > When analyzing conversation history, notice emerging patterns, shifts in focus, or potential future directions. Think of yourself as building a progressive map of understanding that becomes more nuanced and interconnected with each iteration.
 
+__Editor's note: By the end this veers into blockchain shitcoinery, pro-EU regulatory compliance, and other horrible ideas. We endorse none of this, but leaving the transcript intact for historical reference.__
+
 ### Chat
 
 On the openagentsinc/v4a repo, branch name "next", read src/lib/agents-sdk/README.md and docs/20250317-2205-session-tasks.md
