@@ -4514,7 +4514,7 @@ This report synthesizes a multi-phase exploration of the **Chat Agent Starter Ki
 #### **A. Decentralized AI Marketplaces**
 - **Objective**: Enable collaborative resource sharing (models, data, compute) via blockchain-backed incentives.
 - **Components**:
-  - **Tokenized Economy**: $CHAT tokens reward contributions to federated learning tasks.
+  - **Tokenized Economy**: $CHAT tokens reward contributions to federated learning tasks. **[editors note: OpenAgents is bitcoin-only & will never issue a shitcoin token]**
   - **Privacy-Preserving Training**: PySyft + zkSNARKs for secure model aggregation.
   - **IPFS Integration**: Tamper-proof dataset storage with CRYSTALS-Dilithium encryption.
 
